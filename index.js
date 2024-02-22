@@ -1,3 +1,3 @@
-import hex from './src/index.js';
+import hex from "./src/index.js";
 
 hex();
